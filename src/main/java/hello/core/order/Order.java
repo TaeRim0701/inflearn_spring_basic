@@ -1,7 +1,5 @@
 package hello.core.order;
 
-import java.math.BigDecimal;
-
 public class Order {
 
     private Long memberId;
